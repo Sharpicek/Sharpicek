@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David, I'm from Czech Republic
 - 👀 I’m interested in Swing Dancing, BJJ, Web Development - Programming, TTRPGs, Bitcoin, Finance & Investing.
 - 🌱 I’m currently learning how to use Git and GitHub & Web Development - doing freeCodeCamp.org 'Responsive Web Design Curriculum' and The Odin Project 'Foundation' course.
-- 📫 How to reach me: I guess don't? But here https://zig-zag.cz/lektori/david/ (I teach Swing Dancing in Prague)
+- 📫 How to reach me: [Twitter](https://x.com/Sharporurz)
 - ⚡ Fun fact: I hated school, but now love learning.
 
 <!---
