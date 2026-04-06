@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Learning
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" referrerpolicy="no-referrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" referrerpolicy="no-referrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" referrerpolicy="no-referrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" referrerpolicy="no-referrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript"></a>
   <a href="https://git-scm.com/" target="_blank" referrerpolicy="no-referrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="36" height="36" alt="Git"></a>
